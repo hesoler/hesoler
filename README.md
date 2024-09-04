@@ -12,7 +12,7 @@
 </p>
 
 ### I’m currently:
-- 🔭 Working at [**SOFTEL**](https:www.softel.cu)
+- 🔭 Working at [**SOFTEL**](https://www.softel.cu)
 - 🌱 Learning MERN Stack tecnologies
 
 ### 🚀 Skills
