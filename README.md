@@ -12,7 +12,7 @@
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left">
-   <a href="hecalana" target="_blank">
+   <a href="mailto:hecalana@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
    </a> 
    <a href="https://www.linkedin.com/in/hectorsoler" target="_blank">
@@ -56,6 +56,8 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hesoler&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hesoler&repo=assessment-avg&bg_color=40%2C0E6DA1%2C0F2A97%2C000&show_owner=true&title_color=FFF7C9&text_color=fff&icon_color=FFCA00&hide_border=false&theme=default" alt="GitHub repo-card Card" />
+  <a href="https://github.com/hesoler/assessment-avg" target="_blank">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hesoler&repo=assessment-avg&bg_color=40%2C0E6DA1%2C0F2A97%2C000&show_owner=true&title_color=FFF7C9&text_color=fff&icon_color=FFCA00&hide_border=false&theme=default" alt="GitHub repo-card Card" />
+  </a>
 </p>
 
