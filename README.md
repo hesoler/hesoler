@@ -1,33 +1,61 @@
-## Hi there 👋. My name is Héctor.
+![👋 Hi, my name is Héctor Soler.](https://www.cloudtransformation.com.sg/wp-content/uploads/2018/08/banner-softwaredev.jpg)
 
-<p align="center"><strong>Graduated professional with two years of experience.</strong></p>
+![Profile views](https://komarev.com/ghpvc/?username=hesoler&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align='center'>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>👋 Hi there, my name is Héctor Soler.</h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left">
+   <a href="hecalana" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
+   </a> 
    <a href="https://www.linkedin.com/in/hectorsoler" target="_blank">
-     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn" width="28px" height="28px" />
-   </a>
-   <a href="mailto:hecalana@gmail.com" target="_blank">
-     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="28px" height="28px" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
    </a>
 </p>
 
-### I’m currently:
-- 🔭 Working at [**SOFTEL**](https://www.softel.cu)
-- 🌱 Learning MERN Stack tecnologies
+ **<h3 align="left">🚀 Graduated professional with two years of experience. Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
-### 🚀 Skills
+**<h3 align="left">Rapid Fire</h3>**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
+- 💼 I'm currently working Working at [SOFTEL](https:www.softel.cu).
+- 🌱 I'm currently learning: **📚 Learning AngularJs framework**
+- 💬 Ask me about: **💡 Java, JavaScript, React, Node.js, and RESTful APIs**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="32" alt="HTML5" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="32" alt="CSS3" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/Angular-DD1100?logo=angular&logoColor=white" height="32" alt="Angular" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px">
+<!--    <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> -->
+   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="32" alt="Spring" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white" height="32" alt="Spring Boot" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px">
+</div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hesoler&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=hesoler&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hesoler&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hesoler&repo=assessment-avg&bg_color=40%2C0E6DA1%2C0F2A97%2C000&show_owner=true&title_color=FFF7C9&text_color=fff&icon_color=FFCA00&hide_border=false&theme=default" alt="GitHub repo-card Card" />
+</p>
+
