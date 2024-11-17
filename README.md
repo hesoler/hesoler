@@ -25,7 +25,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working at [**SOFTEL**](https://www.softel.cu).
-- 🌱 I'm currently learning: **📚 Learning AngularJs framework**
+- 🌱 I'm currently learning: 📚 **AngularJs framework**
 - 💬 Ask me about: **💡 Java, JavaScript, React, Node.js, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
