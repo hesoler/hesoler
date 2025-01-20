@@ -20,13 +20,13 @@
    </a>
 </p>
 
- **<h3 align="left">🚀 Graduated professional with two years of experience. Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 Graduated professional with three years of experience. Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working at [**SOFTEL**](https://www.softel.cu).
-- 🌱 I'm currently learning: 📚 **AngularJs framework**
-- 💬 Ask me about: **💡 Java, JavaScript, React, Node.js, and RESTful APIs**
+- 🌱 I'm currently learning: 📚 **Angular framework**
+- 💬 Ask me about: **💡 Java, JavaScript, React, NodeJs, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
 
