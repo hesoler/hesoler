@@ -26,17 +26,17 @@
 
 - 💼 I'm currently working at [**SOFTEL**](https://www.softel.cu).
 - 🌱 I'm currently learning: 📚 **Angular framework**
-- 💬 Ask me about: **💡 Java, JavaScript, React, NodeJs, and RESTful APIs**
+- 💬 Ask me about: **💡 Java, JavaScript and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="32" alt="HTML5" style="margin-right: 4px">
    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="32" alt="CSS3" style="margin-right: 4px">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&logoColor=F7DF1C" height="32" alt="JavaScript" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/TypeScript-20232A?logo=typescript&logoColor=3178C6" height="32" alt="TypeScript" style="margin-right: 4px">
    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px">
    <img src="https://img.shields.io/badge/Angular-DD1100?logo=angular&logoColor=white" height="32" alt="Angular" style="margin-right: 4px">
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px">
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px">
    <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px">
    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px">
@@ -45,6 +45,7 @@
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white" height="32" alt="Spring Boot" style="margin-right: 4px">
    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px">
+   <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=#3776AB" height="32" alt="Python" style="margin-right: 4px">
 </div>
 
  **<h3 align="left">GitHub Stats</h3>**
