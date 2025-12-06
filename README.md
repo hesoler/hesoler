@@ -20,7 +20,7 @@
    </a>
 </p>
 
- **<h3 align="left">🎓 Software engineer with three years of experience. Passionate about fullstack web development, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization. 👨‍💻</h3>**
+ **<h3 align="left">🎓 Software engineer with four years of experience. Passionate about fullstack web development, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization. 👨‍💻</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
