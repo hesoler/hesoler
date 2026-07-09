@@ -25,7 +25,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working at [**Alabama Solutions**](https://www.alabamasolutions.com/).
-- 📚 I'm currently learning: [**AI tools**].
+- 📚 I'm currently learning: **AI tools**.
 - 💬 Ask me about: **Java, JavaScript and RESTful APIs**.
 
  **<h3 align="left">Skills</h3>**
